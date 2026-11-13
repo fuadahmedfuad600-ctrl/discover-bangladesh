@@ -1,0 +1,6 @@
+{
+  "name": "Discover Bangladesh",
+  "description": "A Land of Stories, Nature & Endless Discoveries — Bilingual Bangladesh Tourism & Travel Discovery Platform covering 8 divisions, 64 districts, interactive maps, and Gemini AI itinerary planning.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
